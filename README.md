@@ -1,9 +1,9 @@
 # Django on Azure
 
-#### The web application as an example in my writing of the article on **Serverless Python on Azure: Django on App Service**
+The web application used as an example in my writing of the article on **Serverless Python on Azure: Django hosted on Azure App Service**
 
 ## Tech
-Written in Python3 and Django 3.0.3.
+Written in Python3 and Django 3.1.1.
 
 ## Setup
 
